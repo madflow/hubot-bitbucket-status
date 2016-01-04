@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/madflow/hubot-bitbucket-status.png)](https://travis-ci.org/madflow/hubot-bitbucket-status)
+
+
 # hubot-bitbucket-status
 
 A hubot script that spits out the bitbucket status of service without a green light
