@@ -1,6 +1,6 @@
 {
   "name": "hubot-bitbucket-status",
-  "description": "A hubot script that spits out the bitbucket status of service without a green light",
+  "description": "A hubot script that spits out the bitbucket status of a service without a green light",
   "version": "0.0.1",
   "author": "madflow <madflow@localhost>",
   "license": "MIT",
