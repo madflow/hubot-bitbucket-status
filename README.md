@@ -3,7 +3,7 @@
 
 # hubot-bitbucket-status
 
-A hubot script that spits out the bitbucket status of service without a green light
+A hubot script that spits out the bitbucket status of a service without a green light
 
 ## Installation
 
