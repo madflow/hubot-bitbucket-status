@@ -20,7 +20,7 @@ module.exports = function(robot) {
 
                 status.forEach(function(val) {
                     $(val.class).each(function() {
-                        res.send(val.desc + ': ' + $(this).text().replace('?', '').trim());
+                        res.send(val.desc + ': ' + '[http://status.bitbucket.org] - ' + $(this).text().replace('?', '').trim());
                     });
                 });
 
